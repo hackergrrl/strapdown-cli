@@ -1,0 +1,23 @@
+{
+  "idx": 3,
+  "tasks": {
+    "0": {
+      "description": "v1.0.0",
+      "deps": [
+        1,
+        2
+      ],
+      "state": "todo"
+    },
+    "1": {
+      "description": "usage text includes a list of all themes",
+      "deps": [],
+      "state": "todo"
+    },
+    "2": {
+      "description": "inline theme css",
+      "deps": [],
+      "state": "todo"
+    }
+  }
+}
