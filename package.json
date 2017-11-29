@@ -1,0 +1,25 @@
+{
+  "name": "strapdown-cli",
+  "description": "A small command line utility for Strapdown.",
+  "author": "Stephen Whitmore <sww@eight.net>",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/noffle/strapdown-cli.git"
+  },
+  "homepage": "https://github.com/noffle/strapdown-cli",
+  "bugs": "https://github.com/noffle/strapdown-cli/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js",
+    "lint": "standard"
+  },
+  "keywords": [],
+  "dependencies": {
+    "strapdown": "^0.6.4"
+  },
+  "devDependencies": {
+    "tape": "~4.6.2",
+    "standard": "~10.0.0"
+  },
+  "license": "ISC"
+}
