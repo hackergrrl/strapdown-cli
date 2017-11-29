@@ -7,6 +7,19 @@ var marked = require('marked')
 
 if (process.argv.length !== 4) {
   console.log('USAGE: strapdown FILE.markdown <THEME>')
+  console.log()
+  console.log('Valid themes:')
+  console.log(`  amelia
+  cerulean
+  cyborg
+  journal
+  readable
+  simplex
+  slate
+  spacelab
+  spruce
+  superhero
+  united`)
   process.exit(1)
 }
 
