@@ -33,6 +33,8 @@ $ cat foo.html
 </html>
 ```
 
+<center><img src="https://github.com/noffle/strapdown-cli/raw/master/screenshot.png"/></center>
+
 ## API
 
 If you're looking for a programmatic API, you want the
