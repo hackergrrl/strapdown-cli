@@ -2,7 +2,7 @@
   "name": "strapdown-cli",
   "description": "A small command line utility for producing pretty web pages from markdown.",
   "author": "Stephen Whitmore <sww@eight.net>",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "bin": {
     "strapdown": "bin/cmd.js"
   },
